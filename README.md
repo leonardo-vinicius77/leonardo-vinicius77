@@ -54,15 +54,29 @@ Participo ativamente de projetos de **Extensão Universitária e Iniciação Cie
 
 ### 🏆 Conquistas e Certificações
 
-- **🥈 2º Lugar no SEMICT 2024:**
+- **🥇 1º Lugar na FeciOESTE 2025:**
   - Pesquisa em **Visão Computacional para Educação Inclusiva**
   - Projeto: *Dataset sobre Acuidade Visual para Inteligência Artificial na Educação Inclusiva em Jardim - MS*
-  - Apresentado na **FeciOESTE etapa I e II** — IFMS Campus Jardim
+  - Apresentado na **FeciOESTE** — IFMS Campus Jardim
   - Desenvolvido em colaboração com equipe de Iniciação Científica
 
+- **🥈 2º Lugar no SEMICT 2025:**
+  - Continuidade da pesquisa em **Visão Computacional para Educação Inclusiva**
+  - Apresentado no **Seminário de Iniciação Científica e Tecnológica — SEMICT 2025**
+  - IFMS Campus Jardim
+
+- **🥈 2º Lugar na FeciOESTE 2024:**
+  - Projeto **IDIS — Inclusão Digital para Inclusão Social**
+  - Extensão universitária voltada para promover o acesso à tecnologia
+    como ferramenta de transformação social
+  - IFMS Campus Jardim
+
 - **🔬 Projetos de Extensão Universitária:**
-  - Participação no projeto de **Visão Computacional** — IFMS Campus Jardim
-  - Participação no projeto **IDIS**
+  - Participação no projeto de Iniciação Cientifica **Visão Computacional** — IFMS Campus Jardim
+  - Participação no projeto de Extensão **IDIS — Inclusão Digital para Inclusão Social**
+    - Projeto de extensão voltado para promover o acesso à tecnologia
+      como ferramenta de transformação social
+  - Participação no projeto IFMaker Educador **Patrimônio Cultural de Nioaque em 3D**
   - Experiências que embasam o TCC *"A Práxis Antecipada"*
 
 - **🎓 Bootcamps DIO:**
